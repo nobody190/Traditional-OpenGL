@@ -1,0 +1,3 @@
+C:/Users/Nobody/CLionProjects/cg_opengl_ini/cmake-build-debug/CMakeFiles/cg_opengl_ini.dir
+C:/Users/Nobody/CLionProjects/cg_opengl_ini/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nobody/CLionProjects/cg_opengl_ini/cmake-build-debug/CMakeFiles/rebuild_cache.dir
